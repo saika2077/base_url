@@ -1,6 +1,10 @@
 {
   "rewrites": [
     {
+      "source": "/ip", 
+      "destination": "https://ip.rss.ink"
+    },
+    {
       "source": "/:path*", 
       "destination": "https://chatgpt.com/:path*"
     }
