@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/ip", 
-      "destination": "https://ip.rss.ink"
+      "destination": "https://myip.ipip.net"
     },
     {
       "source": "/:path*", 
